@@ -67,7 +67,7 @@ endif
 
 let s:cdNone = {'gui': 'NONE', 'cterm': 'NONE', 'cterm256': 'NONE'}
 let s:cdFront = {'gui': '#D4D4D4', 'cterm': s:cterm05, 'cterm256': '188'}
-let s:cdBack = {'gui': '#0c0c0c', 'cterm': s:cterm00, 'cterm256': '232'}
+let s:cdBack = {'gui': '#1e1e1e', 'cterm': s:cterm00, 'cterm256': '232'}
 
 let s:cdTabCurrent = {'gui': '#1E1E1E', 'cterm': s:cterm00, 'cterm256': '234'}
 let s:cdTabOther = {'gui': '#2D2D2D', 'cterm': s:cterm01, 'cterm256': '236'}
@@ -98,7 +98,7 @@ let s:cdDiffRedLightLight = {'gui': '#FB0101', 'cterm': s:cterm08, 'cterm256': '
 let s:cdDiffGreenDark = {'gui': '#373D29', 'cterm': s:cterm0B, 'cterm256': '237'}
 let s:cdDiffGreenLight = {'gui': '#4B5632', 'cterm': s:cterm09, 'cterm256': '58'}
 
-let s:cdSearchCurrent = {'gui': '#4B5632', 'cterm': s:cterm09, 'cterm256': '58'} 
+let s:cdSearchCurrent = {'gui': '#4B5632', 'cterm': s:cterm09, 'cterm256': '58'}
 let s:cdSearch = {'gui': '#264F78', 'cterm': s:cterm03, 'cterm256': '24'}
 
 " Syntax colors:
